@@ -1,0 +1,45 @@
+{
+    "RESPACKOPTS ENTRIES": "",
+
+        "rpo.px_hud.title": "Phantom Xiang's HUD",
+
+
+        "rpo.px_hud.bar": "Bar Styles",
+
+        "rpo.px_hud.bar.air": "Air Bar",
+        "rpo.px_hud.bar.air.square": "Squares",
+        "rpo.px_hud.bar.air.dot": "Dots",
+        "rpo.px_hud.bar.air.none": "Unchanged",
+
+        "rpo.px_hud.bar.armor": "Armor Bar",
+        "rpo.px_hud.bar.armor.square": "Squares",
+        "rpo.px_hud.bar.armor.dot": "Dots",
+        "rpo.px_hud.bar.armor.none": "Unchanged",
+        
+        "rpo.px_hud.bar.xp": "Experience Bar",
+        "rpo.px_hud.bar.xp.square": "Squares",
+        "rpo.px_hud.bar.xp.dot": "Dots",
+        "rpo.px_hud.bar.xp.none": "Unchanged",
+
+        "rpo.px_hud.bar.food": "Hunger Bar",
+        "rpo.px_hud.bar.food.square": "Squares",
+        "rpo.px_hud.bar.food.dot": "Dots",
+        "rpo.px_hud.bar.food.none": "Unchanged",
+
+        "rpo.px_hud.bar.hp": "Health Bar",
+        "rpo.px_hud.bar.hp.square": "Squares",
+        "rpo.px_hud.bar.hp.dot": "Dots",
+        "rpo.px_hud.bar.hp.none": "Unchanged",
+
+
+        "rpo.px_hud.misc": "Misc.",
+
+        "rpo.px_hud.misc.crosshair": "Use Λ-Shape Crosshair",
+
+        "rpo.px_hud.misc.crosshair_res": "Λ-Shape Crosshair Resolution",
+        "rpo.px_hud.misc.crosshair_res.tooltip": "Change this value to match your GUI scale settings.\nIf your GUI scale is higher than 4, select 3 for odd, 4 for even.",
+        "rpo.px_hud.misc.crosshair_res.x1": "1",
+        "rpo.px_hud.misc.crosshair_res.x2": "2",
+        "rpo.px_hud.misc.crosshair_res.x3": "3",
+        "rpo.px_hud.misc.crosshair_res.x4": "4"
+}

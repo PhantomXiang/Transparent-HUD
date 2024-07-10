@@ -1,0 +1,8 @@
+{
+    "condition": "misc.crosshair & misc.crosshair_res.x1",
+    "fallbacks": [
+        "assets/minecraft/textures/gui/sprites/hud/crosshair_2x.png",
+        "assets/minecraft/textures/gui/sprites/hud/crosshair_3x.png",
+        "assets/minecraft/textures/gui/sprites/hud/crosshair_4x.png"
+      ]
+}

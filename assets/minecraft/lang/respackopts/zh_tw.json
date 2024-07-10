@@ -1,0 +1,45 @@
+{
+    "RESPACKOPTS ENTRIES": "",
+
+        "rpo.px_hud.title": "翔之幻影的HUD",
+
+
+        "rpo.px_hud.bar": "狀態條樣式",
+
+        "rpo.px_hud.bar.air": "空氣條",
+        "rpo.px_hud.bar.air.square": "方形",
+        "rpo.px_hud.bar.air.dot": "圓點",
+        "rpo.px_hud.bar.air.none": "不改變",
+
+        "rpo.px_hud.bar.armor": "裝甲條",
+        "rpo.px_hud.bar.armor.square": "方形",
+        "rpo.px_hud.bar.armor.dot": "圓點",
+        "rpo.px_hud.bar.armor.none": "不改變",
+        
+        "rpo.px_hud.bar.xp": "經驗條",
+        "rpo.px_hud.bar.xp.square": "方形",
+        "rpo.px_hud.bar.xp.dot": "圓點",
+        "rpo.px_hud.bar.xp.none": "不改變",
+
+        "rpo.px_hud.bar.food": "飢餓條",
+        "rpo.px_hud.bar.food.square": "方形",
+        "rpo.px_hud.bar.food.dot": "圓點",
+        "rpo.px_hud.bar.food.none": "不改變",
+
+        "rpo.px_hud.bar.hp": "血條",
+        "rpo.px_hud.bar.hp.square": "方形",
+        "rpo.px_hud.bar.hp.dot": "圓點",
+        "rpo.px_hud.bar.hp.none": "不改變",
+
+
+        "rpo.px_hud.misc": "雜項",
+
+        "rpo.px_hud.misc.crosshair": "啟用Λ形準心",
+
+        "rpo.px_hud.misc.crosshair_res": "Λ形準心解析度(分辨率)",
+        "rpo.px_hud.misc.crosshair_res.tooltip": "請根據您的「界面大小」設定調整該數值。\n若您的界面大小超過4且為奇數, 請選擇3,\n若為偶數請選擇4。",
+        "rpo.px_hud.misc.crosshair_res.x1": "1",
+        "rpo.px_hud.misc.crosshair_res.x2": "2",
+        "rpo.px_hud.misc.crosshair_res.x3": "3",
+        "rpo.px_hud.misc.crosshair_res.x4": "4"
+}

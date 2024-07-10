@@ -1,0 +1,4 @@
+{
+    "condition": "bar.food.square",
+    "fallback": "assets/appleskin/textures/icons_dot.png"
+}
