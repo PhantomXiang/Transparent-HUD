@@ -1,0 +1,32 @@
+{
+    "pack": {
+        "pack_format": 34,
+        "description": [
+            {
+                "text": "V1.0",
+                "bold": true,
+                "color": "green"
+            },
+            {
+                "text": " for ",
+                "bold": false,
+                "color": "gray"
+            },
+            {
+                "text": "[1.21.X]",
+                "bold": true,
+                "color": "gold"
+            },
+            {
+                "text": "\nby ",
+                "bold": false,
+                "color": "gray"
+            },
+            {
+                "text": "PhantomXiang",
+                "bold": false,
+                "color": "aqua"
+            }
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "id": "px_hud",
+    "version": 12,
+    "capabilities": [
+        "FileFilter"
+    ],
+    "conf": {
+        "bar": {
+            "air": [
+                "square",
+                "dot",
+                "none"
+            ],
+            "armor": [
+                "square",
+                "dot",
+                "none"
+            ],
+            "xp": [
+                "square",
+                "dot",
+                "none"
+            ],
+            "food": [
+                "square",
+                "dot",
+                "none"
+            ],
+            "hp": [
+                "square",
+                "dot",
+                "none"
+            ]
+        },
+        "misc": {
+            "crosshair": false,
+            "crosshair_res": [
+                "x1",
+                "x2",
+                "x3",
+                "x4"
+            ]
+        }
+    }
+}
