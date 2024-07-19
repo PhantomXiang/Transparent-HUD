@@ -1,1 +1,1 @@
-{"condition": "bar.hp.square", "fallback": "assets/minecraft/textures/gui/sprites/hud/heart_dot/container_blinking_dot.png"}
+{"condition": "bar.hp.square", "fallback": "assets/minecraft/textures/gui/sprites/hud_dot/heart_dot/container_blinking_dot.png"}

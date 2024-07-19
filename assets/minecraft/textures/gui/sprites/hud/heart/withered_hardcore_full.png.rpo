@@ -1,1 +1,1 @@
-{"condition": "bar.hp.square", "fallback": "assets/minecraft/textures/gui/sprites/hud/heart_dot/withered_hardcore_full_dot.png"}
+{"condition": "bar.hp.square", "fallback": "assets/minecraft/textures/gui/sprites/hud_dot/heart_dot/withered_hardcore_full_dot.png"}
