@@ -1,4 +1,5 @@
 /PS File
 icon.png
-icon.psd
-zsh commands.zsh
+*.psd
+*.zsh
+*.zip

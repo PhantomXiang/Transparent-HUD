@@ -41,5 +41,11 @@
         "rpo.px_hud.misc.crosshair_res.x1": "1",
         "rpo.px_hud.misc.crosshair_res.x2": "2",
         "rpo.px_hud.misc.crosshair_res.x3": "3",
-        "rpo.px_hud.misc.crosshair_res.x4": "4"
+        "rpo.px_hud.misc.crosshair_res.x4": "4",
+
+        "rpo.px_hud.misc.fire": "Transparent Burning Overlay",
+        "rpo.px_hud.misc.fire.tooltip": "Copyright © Faithful Resource Pack\nhttps://faithfulpack.net/",
+        "rpo.px_hud.misc.fire.vanilla": "Vanilla",
+        "rpo.px_hud.misc.fire.faithful": "Faithful",
+        "rpo.px_hud.misc.fire.none": "Unchanged"
 }
