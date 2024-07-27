@@ -1,7 +1,7 @@
 {
     "RESPACKOPTS ENTRIES": "",
 
-        "rpo.px_hud.title": "Phantom Xiang's HUD",
+        "rpo.px_hud.title": "Phantom Xiang's HUD & UI",
 
 
         "rpo.px_hud.bar": "Bar Styles",
@@ -32,6 +32,33 @@
         "rpo.px_hud.bar.hp.none": "Unchanged",
 
 
+        "rpo.px_hud.ui": "UI",
+
+        "rpo.px_hud.ui.button": "Transparent Button",
+        "rpo.px_hud.ui.button.tooltip": "This includes Buttons, Scrollers, and Pop-ups",
+
+        "rpo.px_hud.ui.book": "Transparent Book UI",
+
+        "rpo.px_hud.ui.craft": "Transparent Crafting UI",
+        "rpo.px_hud.ui.craft.tooltip": "This includes Crafting Table, Furnace, Brewing Stand, etc.",
+
+        "rpo.px_hud.ui.enchant": "Transparent Enchant UI",
+        "rpo.px_hud.ui.enchant.tooltip": "This includes Enchanting Table, Anvil, and Grindstone.",
+
+        "rpo.px_hud.ui.inventory": "Transparent Inventory UI",
+        "rpo.px_hud.ui.inventory.tooltip": "This includes both Survival & Creative inventories,\n Advancements, Beacon, and effect indicator.",
+
+        "rpo.px_hud.ui.recipe": "Transparent Recipe Book",
+
+        "rpo.px_hud.ui.redstone": "Transparent Redstone UI",
+        "rpo.px_hud.ui.redstone.tooltip": "This includes Dropper, Hopper, Crafter, etc.",
+
+        "rpo.px_hud.ui.storage": "Transparent Storage UI",
+        "rpo.px_hud.ui.storage.tooltip": "This includes Chest, Shulker Box and Donkey.",
+        
+        "rpo.px_hud.ui.trade": "Transparent Trade UI",
+
+
         "rpo.px_hud.misc": "Misc.",
 
         "rpo.px_hud.misc.crosshair": "Use Λ-Shape Crosshair",
@@ -43,9 +70,13 @@
         "rpo.px_hud.misc.crosshair_res.x3": "3",
         "rpo.px_hud.misc.crosshair_res.x4": "4",
 
-        "rpo.px_hud.misc.fire": "Transparent Burning Overlay",
+        "rpo.px_hud.misc.effect": "Transparent Effect Particle",
+
+        "rpo.px_hud.misc.fire": "Transparent Fire",
         "rpo.px_hud.misc.fire.tooltip": "Copyright © Faithful Resource Pack\nhttps://faithfulpack.net/",
         "rpo.px_hud.misc.fire.vanilla": "Vanilla",
         "rpo.px_hud.misc.fire.faithful": "Faithful",
-        "rpo.px_hud.misc.fire.none": "Unchanged"
+        "rpo.px_hud.misc.fire.none": "Unchanged",
+
+        "rpo.px_hud.misc.pumpkin": "Transparent Pumpkin Overlay"
 }

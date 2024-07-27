@@ -1,7 +1,7 @@
 {
     "RESPACKOPTS ENTRIES": "",
 
-        "rpo.px_hud.title": "翔之幻影的HUD",
+        "rpo.px_hud.title": "翔之幻影的HUD & UI",
 
 
         "rpo.px_hud.bar": "狀態條樣式",
@@ -32,6 +32,33 @@
         "rpo.px_hud.bar.hp.none": "不改變",
 
 
+        "rpo.px_hud.ui": "介面",
+
+        "rpo.px_hud.ui.button": "透明按鈕",
+        "rpo.px_hud.ui.button.tooltip": "此設定包含按鈕、卷軸以及彈窗。",
+
+        "rpo.px_hud.ui.book": "透明書本介面",
+
+        "rpo.px_hud.ui.craft": "透明合成介面",
+        "rpo.px_hud.ui.craft.tooltip": "此設定包含合成台、熔爐和釀造架等。",
+
+        "rpo.px_hud.ui.enchant": "透明附魔介面",
+        "rpo.px_hud.ui.enchant.tooltip": "此設定包含附魔台、鐵砧和砂輪。",
+
+        "rpo.px_hud.ui.inventory": "透明物品欄",
+        "rpo.px_hud.ui.inventory.tooltip": "此設定包含生存和創造物品欄，\n以及進度、烽火台(信標)和狀態效果顯示。",
+
+        "rpo.px_hud.ui.recipe": "透明配方書介面",
+
+        "rpo.px_hud.ui.redstone": "透明紅石介面",
+        "rpo.px_hud.ui.redstone.tooltip": "此設定包含漏斗、發射器和合成器等。",
+
+        "rpo.px_hud.ui.storage": "透明儲物箱介面",
+        "rpo.px_hud.ui.storage.tooltip": "此設定包含箱子、界伏盒和驢子",
+        
+        "rpo.px_hud.ui.trade": "透明交易介面",
+
+
         "rpo.px_hud.misc": "雜項",
 
         "rpo.px_hud.misc.crosshair": "啟用Λ形準心",
@@ -43,9 +70,13 @@
         "rpo.px_hud.misc.crosshair_res.x3": "3",
         "rpo.px_hud.misc.crosshair_res.x4": "4",
 
-        "rpo.px_hud.misc.fire": "透明燃燒畫面",
+        "rpo.px_hud.misc.effect": "透明藥水粒子",
+
+        "rpo.px_hud.misc.fire": "透明火焰",
         "rpo.px_hud.misc.fire.faithful.tooltip": "版權所有 © Faithful Resource Pack\nhttps://faithfulpack.net/",
         "rpo.px_hud.misc.fire.vanilla": "原版",
         "rpo.px_hud.misc.fire.faithful": "Faithful",
-        "rpo.px_hud.misc.fire.none": "不改變"
+        "rpo.px_hud.misc.fire.none": "不改變",
+
+        "rpo.px_hud.misc.pumpkin": "透明南瓜頭"
 }
