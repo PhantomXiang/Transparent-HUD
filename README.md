@@ -30,4 +30,4 @@ Transparent fire and effect particles, can be disabled with [Respackopts](https:
 - [Raised](https://modrinth.com/mod/raised)
 
 ## Download
-Visit the [modrinth page](https://modrinth.com/resourcepack/phantom-xiangs-transparent-hud/settings/description) or simply click the "Download ZIP" button.
+Visit the [modrinth page](https://modrinth.com/resourcepack/phantom-xiangs-transparent-hud) or simply click the "Download ZIP" button.
