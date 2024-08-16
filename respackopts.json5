@@ -2,8 +2,6 @@
     "capabilities": [
         "FileFilter"
     ],
-    "id": "px_hud",
-    "version": 12,
     "conf": {
         "bar": {
             "air": [
@@ -32,17 +30,6 @@
                 "none"
             ]
         },
-        "ui": {
-            "button": true,
-            "book": true,
-            "craft": true,
-            "enchant": true,
-            "inventory": true,
-            "recipe": true,
-            "redstone": true,
-            "storage": true,
-            "trade": true
-        },
         "misc": {
             "crosshair": true,
             "crosshair_res": [
@@ -58,6 +45,20 @@
                 "none"
             ],
             "pumpkin": true
+        },
+        "ui": {
+            "book": true,
+            "button": true,
+            "craft": true,
+            "enchant": true,
+            "inventory": true,
+            "recipe": true,
+            "redstone": true,
+            "storage": true,
+            "tooltip": true,
+            "trade": true
         }
-    }
+    },
+    "id": "px_hud",
+    "version": 12
 }

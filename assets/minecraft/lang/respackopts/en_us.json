@@ -55,6 +55,8 @@
 
         "rpo.px_hud.ui.storage": "Transparent Storage UI",
         "rpo.px_hud.ui.storage.tooltip": "This includes Chest, Shulker Box and Donkey.",
+
+        "rpo.px_hud.ui.tooltip": "Transparent Tooltip",
         
         "rpo.px_hud.ui.trade": "Transparent Trade UI",
 

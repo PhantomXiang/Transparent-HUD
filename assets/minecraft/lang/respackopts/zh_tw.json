@@ -55,6 +55,8 @@
 
         "rpo.px_hud.ui.storage": "透明儲物箱介面",
         "rpo.px_hud.ui.storage.tooltip": "此設定包含箱子、界伏盒和驢子",
+
+        "rpo.px_hud.ui.tooltip": "透明工具提示",
         
         "rpo.px_hud.ui.trade": "透明交易介面",
 
